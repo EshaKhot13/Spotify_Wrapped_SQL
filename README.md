@@ -4,20 +4,20 @@
 
 Ever wondered what your Spotify Wrapped *didn't* tell you?  
 
-This project is a **SQL-powered deep dive** into my 2024 Spotify streaming habits — based on over **20,000 rows** of listening data from March 2024 to May 2025.  
+This project is a **SQL-powered deep dive** into my 2024 Spotify streaming habits, based on over **20,000 rows** of listening data from March 2024 to May 2025.  
 
 Unlike the official Spotify Wrapped, which offers a polished summary, this analysis goes **under the hood** using raw data and SQL queries to uncover:
 
 - 🔁 My **most repeated songs** (even across distinct days)  
 - 🎤 Artists I came back to **month after month**  
-- ☀️ **Seasonal favorites** — what I listened to most in summer vs. winter  
+- ☀️ **Seasonal favorites**: what I listened to most in summer vs. winter  
 - ⏱️ Total time spent listening 
 - 📅 Most music-filled days of the year  
 - ⏭️ How often I skipped tracks (played < 30 seconds)
 
-By transforming JSON data into a relational table and running custom SQL queries, I was able to build my own version of Wrapped — with way more flexibility and **personalized insights Spotify never shows you**.
+By transforming JSON data into a relational table and running custom SQL queries, I was able to build my own version of Wrapped, with way more flexibility and **personalized insights Spotify never shows you**.
 
-Whether you’re into analytics, music, or both — this project shows what’s possible when you combine raw listening data with the power of SQL.
+Whether you’re into analytics, music, or both, this project shows what’s possible when you combine raw listening data with the power of SQL.
 
 ---
 
@@ -306,7 +306,7 @@ Through this project, I gained deeper insight into both my **listening habits** 
 - Mastered SQL aggregation, grouping, and date formatting  
 - Used **window functions**: `ROW_NUMBER`, `RANK`, `DENSE_RANK`  
 - Learned to clean real-world data for analytical storytelling  
-- Identified unique musical habits using only SQL — no dashboards or Python needed!
+- Identified unique musical habits using only SQL, no dashboards or Python needed!
 
 ---
 
